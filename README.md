@@ -42,4 +42,8 @@ This project was created using newly learned material related to creating server
 ## Below is a screenshot of Add/View employee functionality in terminal:
 
  ![App Function](Add-View-Employees.png)
+ 
+ ## Below is a screenshot of the Update employee role functionality in terminal:
+ 
+ ![App Function](Update-Employee-Role.png)
 
