@@ -33,13 +33,13 @@ This project was created using newly learned material related to creating server
 
 ## Below is a screenshot of Add/View department functionality in terminal:
 
- ![App Function](server-demo.png)
+ ![App Function](Add-View Departments.png)
 
 ## Below is a screenshot of Add/View role functionality in terminal:
 
- ![App Function](note-taking-demo.png)
+ ![App Function](Add-View Roles.png)
  
 ## Below is a screenshot of Add/View employee functionality in terminal:
 
- ![App Function](db-json-demo.png)
+ ![App Function](Add-View Employees.png)
 
